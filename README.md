@@ -11,7 +11,7 @@ I'm an **Instructional Assistant Professor** at Chapman University (Orange, CA).
 I take a personalized approach to elevate the learning experience of my students. My goal is to provide excellence in teaching, emphasizing on critical thinking and problem-solving skills for my students to thrive in their academic and professional careers.
 
 - 🔭 Currently Building: interactive simulations and AI-powered tools for instructors
-- 🌱 Exploring: vibe coding, LLM-assisted grading workflows, and intuitive course design
+- 🌱 Exploring: LLM-assisted grading workflows, tools using Canvas API, and intuitive course design
 - 🎓 Additional Role: Faculty Fellow at the **Center for Teaching Excellence and Innovation** at Chapman University
 
 ---
