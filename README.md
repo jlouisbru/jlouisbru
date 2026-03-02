@@ -1,79 +1,52 @@
-<!--
-  Elegant README template to introduce yourself on GitHub.
-  Replace placeholders (YOUR_NAME, ROLE, etc.) with your details.
--->
+# Hi, I'm Jean-Louis Bru, Ph.D. 👋
 
-# Hi, I'm YOUR NAME 👋
-
-A succinct one-line summary about you — who you are, what you build, and what you care about.
+Instructional Assistant Professor at Chapman University — bridging rigorous biology education with modern AI-powered teaching tools.
 
 ---
 
 ## About Me
 
-I’m a **ROLE** based in LOCATION. I enjoy building products and tools that make people's lives easier — especially in areas like DOMAIN (e.g., web apps, developer tools, data visualization).
+I'm an **Instructional Assistant Professor** at Chapman University (Orange, CA). Born in France, I moved to California in 2009, started at Golden West College, and went on to earn my B.S. in Molecular Biology & Biochemistry and my Ph.D. in Microbiology, both from UC Irvine.
 
-- 🔭 I’m currently working on: **PROJECT_NAME** — one-line description.
-- 🌱 I’m learning: **TECH/AREA**.
-- 👯 I’m open to collaborating on interesting projects related to **TOPIC**.
-- ⚡ Fun fact: A personal detail that makes you memorable.
+I take a personalized approach to elevate the learning experience of my students. My goal is to provide excellence in teaching, emphasizing on critical thinking and problem-solving skills for my students to thrive in their academic and professional careers.
+
+- 🔭 Currently Building: interactive simulations and AI-powered tools for instructors
+- 🌱 Exploring: vibe coding, LLM-assisted grading workflows, and intuitive course design
+- 🎓 Additional Role: Faculty Fellow at the **Center for Teaching Excellence and Innovation** at Chapman University
 
 ---
 
 ## Skills & Technologies
 
-Here are some of the technologies I use regularly:
-
-- Languages: JavaScript, TypeScript, Python, Go  
-- Frontend: React, Next.js, Tailwind CSS  
-- Backend: Node.js, Express, PostgreSQL  
-- DevOps: Docker, GitHub Actions, Azure  
-
-*(Tailor this list to match your strengths; use bullets or badges.)*
+- **Biology:** Microbiology, Immunology, Cell Biology, Molecular Genetics, Ecology
+- **Research:** Bacterial pathogenesis, antibiotic resistance, *P. aeruginosa*, coinfection dynamics
+- **Teaching Tech:** Canvas LMS, AI-assisted grading, interactive web simulations
+- **Coding / Tools:** Vibe coding with LLMs, Google Sheets automation, JavaScript
 
 ---
 
 ## Selected Projects
 
-### [Project One](https://github.com/YOUR_USERNAME/project-one)
-Short description of the project, the problem it solves, and technologies used.
+### [PCR & Gel Electrophoresis Simulation](https://www.jlouisbru.com/pcr-gel-electrophoresis-simulation/)
+An interactive web simulation for teaching PCR and gel electrophoresis concepts, designed to give students hands-on experience without the lab bench.
 
-### [Project Two](https://github.com/YOUR_USERNAME/project-two)
-Short description and highlights.
-
-*(Pick 3–5 projects that showcase variety and impact — link to repos or live demos.)*
+### [Canvas AI Grading Tool](https://www.jlouisbru.com/save-time-with-vibe-coding/)
+An open-source tool built with Claude and Google Sheets that automates Canvas essay grading. 5-minute setup, no programming experience required.
 
 ---
 
 ## How I Work
 
-- I prefer small, iterative releases and continuous feedback.  
-- I write clear documentation and tests so others can onboard quickly.  
-- I value simplicity, readability, and pragmatic engineering.
+- I design courses around meaningful learning objectives, interactive experiences, and critical thinking
+- I believe AI should free educators to do more of what matters: mentoring, teaching, inspiring.
 
 ---
 
 ## Contact & Socials
 
-- Email: your.email@example.com  
-- GitHub: [YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
-- LinkedIn: [Your Name](https://linkedin.com/in/YOUR_PROFILE)  
-- Website: https://yourwebsite.com
+- Email: [bru@chapman.edu](mailto:bru@chapman.edu)
+- Website: [jlouisbru.com](https://www.jlouisbru.com/)
+- LinkedIn: [Jean-Louis Bru](https://www.linkedin.com/in/jean-louis-bru-58281b149/)
+- Chapman Faculty Page: [chapman.edu/our-faculty/bru-jeanlouis](https://www.chapman.edu/our-faculty/bru-jeanlouis.aspx)
 
-Feel free to reach out — I’m always open to chat about interesting problems or collaboration.
-
----
-
-## Want this personalized?
-
-If you’d like, tell me the following and I’ll update this README for you:
-
-1. Your full name and preferred role/title
-2. A 1–2 sentence bio or elevator pitch
-3. Top skills/technologies to list (3–8 items)
-4. 2–4 projects to highlight (repo links and one-line descriptions)
-5. Contact links you want included (email, LinkedIn, website, Twitter)
-
----
-
-Made with ❤ — update this README to match your voice and style.
+Feel free to reach out, always happy to chat about biology, education, or AI tools for teaching.
