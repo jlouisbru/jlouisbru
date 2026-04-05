@@ -30,7 +30,7 @@ I take a personalized approach to elevate the learning experience of my students
 ### [PCR & Gel Electrophoresis Simulation](https://www.jlouisbru.com/pcr-gel-electrophoresis-simulation/)
 An interactive web simulation for teaching PCR and gel electrophoresis concepts, designed to give students hands-on experience without the lab bench.
 
-### [Canvas AI Grading Tool](https://www.jlouisbru.com/save-time-with-vibe-coding/)
+### [Canvas AI Grading Tool](https://www.jlouisbru.com/canvas-grading-with-ai-how-to-quickly-grade-assignments-on-canvas-using-ai/)
 An open-source tool built with Claude and Google Sheets that automates Canvas essay grading. 5-minute setup, no programming experience required.
 
 ---
